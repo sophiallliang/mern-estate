@@ -57,9 +57,10 @@ export default function Home() {
           place with ease
         </h1>
         <div className="text-gray-400 text-xs sm:text-sm ">
-          Sahand Estate is the best place to find your perfect place to live.
+          EvoEstate helps you find a space that fits your lifestyle, your goals,
+          and your dreams.
           <br />
-          We have a wide range of properties for you to choose from.
+          Whether you're settling in, starting fresh, or simply exploring..
         </div>
         <Link
           to={"/search"}
